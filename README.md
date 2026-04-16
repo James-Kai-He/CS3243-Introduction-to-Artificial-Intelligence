@@ -1,4 +1,4 @@
-# CS3243
+# CS3243 Introduction to Artificial Intelligence
 
 ## Project 1.1: Maze Pathfinding
 
