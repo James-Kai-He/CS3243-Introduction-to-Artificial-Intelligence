@@ -20,7 +20,7 @@ Constraint Satisfation problems
 
 1: Local Search algorithm
 
-2: Contrainst Satisfaction Problem
+2: Constraint Satisfaction Problem
 
 ## Project 3: Modified Chess
 
